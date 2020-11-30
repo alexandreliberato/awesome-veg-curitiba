@@ -1,6 +1,6 @@
 # Awesome Veg Curitiba [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> vegan or vegetarian restaurants/markets in Curitiba.
+> Restaurantes e mercados vegan ou vegetarianos em Curitiba.
 
 
 ## Contents
@@ -11,10 +11,9 @@
 
 ## Restaurantes
 
-About this section. Optional. Keep this short and focus on the list.
+Restaurantes
 
 - [Poder Vegano](https://podervegano.com.br)
-- [List item](http://example.com)
 
 
 ## Another Section
