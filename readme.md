@@ -5,8 +5,10 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Orgânicos](#Orgânicos)
+- [Mercados](#Mercados)
+- [Restaurantes](#Restaurantes)
+- [Contribuições](#Contribua)
 
 
 ## Restaurantes
@@ -22,12 +24,11 @@ Restaurantes
 - [List item](http://example.com)
 
 
-## Lojas
+## Orgânicos
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Produtos da Terra](https://www.produtosdaterrapr.com.br/)
 
 
-## Contribute
+## Contribua
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contribuições são bem vindas, leia o guia [contribution guidelines](contributing.md) primeiro.
